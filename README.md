@@ -1,4 +1,4 @@
-# Hand-gesture-recogination-project MediaPipe Landmarks from the HaGRID Dataset  
+# Hand-Gesture-Recogination-Project MediaPipe Landmarks from the HaGRID Dataset  
 
 ## 📌 Overview  
 This project focuses on classifying hand gestures using **landmark data extracted with MediaPipe** from the HaGRID dataset.  
@@ -30,7 +30,7 @@ Each keypoint has **(x, y, z) coordinates**, which are used to classify gestures
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone 
+git clone https://github.com/baghelratan/hand-gesture-recogination-project.git
 cd hand-gesture-classification
 ```
 

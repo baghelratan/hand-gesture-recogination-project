@@ -55,7 +55,7 @@ python real_time_demo.py
 ## 🎥 Demo  
 
 Here is a **real-time demo of the model running on my hand**:  
-
+ 
 
 
 ## 📊 Project Deliverables  

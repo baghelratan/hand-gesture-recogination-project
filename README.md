@@ -54,6 +54,10 @@ python real_time_demo.py
 
 ## 🎥 Demo  
 
+https://github.com/user-attachments/assets/79868dbe-0ef1-42d2-8d16-d03bf17d7c16
+
+
+
 Here is a **real-time demo of the model running on my hand**:  
  
 
